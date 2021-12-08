@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">calculadorafromjavatokt2</string>
+    <string name="cifra_02">cifra_02</string>
+    <string name="resultado">resultado</string>
+    <string name="division">division</string>
+    <string name="multiplicacion">multiplicacion</string>
+    <string name="suma">suma</string>
+    <string name="resta">resta</string>
+    <string name="cifra_01">cifra_01</string>
+    <string name="ingrese_dos_numeros_a_calcular">Ingrese Dos Numeros a calcular</string>
+    <string name="resusltado">Resusltado</string>
+</resources>
